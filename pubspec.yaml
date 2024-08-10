@@ -1,0 +1,47 @@
+name: pakar_sistem
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.6
+  get: 4.6.6
+  get_cli: ^1.8.1
+  flutter: 
+    sdk: flutter
+  page_transition: ^2.1.0
+  carousel_slider: ^4.2.1
+  firebase_core: ^3.2.0
+  cloud_firestore: ^5.1.0
+  firebase_storage: ^12.1.1
+  firebase_auth: ^5.1.2
+  image_picker: ^1.1.2
+  pdf: ^3.11.0
+  path_provider: ^2.0.15
+  google_fonts: ^6.2.1
+  open_file: ^3.2.1
+  permission_handler: ^11.3.1
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo-barber.png"
+
+dev_dependencies: 
+  #flutter_lints: ^3.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+  uses-material-design: true
+

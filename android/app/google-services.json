@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75721021199",
+    "project_id": "pakarcukuran-64f17",
+    "storage_bucket": "pakarcukuran-64f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75721021199:android:e495686452af8491d5907a",
+        "android_client_info": {
+          "package_name": "com.example.pakar_sistem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJddlWtNKPlOvz0VDxupStFHJQNP-QtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
